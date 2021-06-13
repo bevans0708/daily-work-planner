@@ -5,4 +5,4 @@
 #### Deployed Link
 https://bevans0708.github.io/daily-work-planner/
 
-![image]()
+![image](https://github.com/bevans0708/daily-work-planner/blob/main/Capture.PNG)
